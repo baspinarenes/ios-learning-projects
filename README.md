@@ -17,3 +17,13 @@
 **Course**: [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
 
 **Techs**: Storyboard - Swift
+
+---
+
+### Project 3: Magic 8 Ball
+
+<img src="./images/magic-8-ball.png" width="250">
+
+**Course**: [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
+
+**Techs**: Storyboard - Swift
